@@ -1,0 +1,26 @@
+.content__center {
+  flex: 0.7;
+  margin: 10px 20px;
+}
+
+.contentlinks__bottom {
+  color: #005daa;
+  padding: 20px;
+}
+
+.contentlinks__bottom > h3 {
+  color: black;
+}
+
+.feed p > img {
+  height: 200px;
+  width: 200px;
+  padding: 5px;
+  border: 1px solid #005daa;
+  float: left;
+  margin: 3px 12px 3px 0px;
+}
+
+.feed > p {
+  padding-top: 20px;
+}
